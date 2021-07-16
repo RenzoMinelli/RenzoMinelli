@@ -1,6 +1,12 @@
-### Hi there, I'm Renzo 👋
+### <h1>Hi there, I'm Renzo</h1> 👋
 
-I'm currently studying Computer Engineering at Universidad de la  República.
+📚 I'm currently in my third year of Computer Engineering at Universidad de la  República.
+
+<hr>
+
+<h2>Programming languages I use:</h2>
+<hr>
+
 <!--
 **RenzoMinelli/RenzoMinelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
