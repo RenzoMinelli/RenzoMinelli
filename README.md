@@ -1,6 +1,6 @@
 ### <h1>Hi there, I'm Renzo👋</h1> 
 
-📚 I'm currently in my third year of Computer Engineering at Universidad de la  República.
+📚 I'm a 19yo in my third year of Computer Engineering at Universidad de la República.
 
 <h2>Programming languages I use:</h2>
 
@@ -8,18 +8,17 @@
   <img alt="C/C++" src="https://img.shields.io/badge/-C/C++-E77250?style=flat&logo=c&logoColor=white"/>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flate&logo=python&logoColor=white"/>
 </p>
+<h2>What I use to code?</h2>
+<p>
+  <img alt="VisualStudioCode" src="https://bit.ly/36t1Mlt"/>
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
+  <img alt="Windows" src="https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white"/>
+  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/>
+</p>
 
-<!--
-**RenzoMinelli/RenzoMinelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Where can you find me?</h2>
+<p>
+  <a href="https://www.instagram.com/renzominelli/" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-FF4949?style=flat&logo=instagram&logoColor=white" /> </a>
+  <a href="https://twitter.com/renzominelli1" target="_blank"> <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" /> </a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
