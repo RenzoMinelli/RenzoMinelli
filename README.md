@@ -4,8 +4,9 @@
 
 <h2>Programming languages I use:</h2>
 
-*C++
-*Python
+C++
+
+Python
 
 <!--
 **RenzoMinelli/RenzoMinelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
