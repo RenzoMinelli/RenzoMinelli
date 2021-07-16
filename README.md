@@ -4,9 +4,10 @@
 
 <h2>Programming languages I use:</h2>
 
-C++
-
-Python
+<p>
+  <img alt="C/C++" src="https://img.shields.io/badge/-C/C++-E77250?style=flat&logo=c&logoColor=white"/>
+  <img alt="Python" src="https://img.shields.io/badge/-Python-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+</p>
 
 <!--
 **RenzoMinelli/RenzoMinelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
