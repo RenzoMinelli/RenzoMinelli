@@ -1,6 +1,6 @@
 ### <h1>Hi there, I'm Renzo👋</h1> 
 
-📚 I'm a 19yo in my third year of Computer Engineering at Universidad de la República.
+📚 I'm a 20yo in my third year of Computer Engineering at Universidad de la República.
 
 
 <h2>Programming languages I use:</h2>
@@ -8,6 +8,7 @@
 <p>
   <img alt="C/C++" src="https://img.shields.io/badge/-C/C++-E77250?style=flat&logo=c&logoColor=white"/>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flate&logo=python&logoColor=white"/>
+  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white"/>
 </p>
 <h2>What I use to code?</h2>
 <p>
