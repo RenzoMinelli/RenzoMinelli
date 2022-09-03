@@ -1,6 +1,6 @@
 ### <h1>Hi there, I'm Renzo👋</h1> 
 
-📚 I'm a 20yo in my third year of Computer Engineering at Universidad de la República.
+📚 I'm a 20yo in my fourth year of Computer Engineering at Universidad de la República.
 
 
 <h2>Programming languages I use:</h2>
