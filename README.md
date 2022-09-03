@@ -21,6 +21,5 @@
 <h2>Where can you find me?</h2>
 <p>
   <a href="https://www.instagram.com/renzominelli/" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-FF4949?style=flat&logo=instagram&logoColor=white" /> </a>
-  <a href="https://twitter.com/renzominelli1" target="_blank"> <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" /> </a>
 </p>
 
