@@ -9,7 +9,6 @@
   <img alt="Ruby" src="https://img.shields.io/badge/Ruby-FF4949?style=flat&logo=Ruby&logoColor=white"/>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flate&logo=python&logoColor=white"/>
   <img alt="C/C++" src="https://img.shields.io/badge/-C/C++-E77250?style=flat&logo=c&logoColor=white"/>
-  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white"/>
 </p>
 <h2>What I use to code?</h2>
 <p>
